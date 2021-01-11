@@ -1,1 +1,3 @@
-kdbsf
+Reference #1: ' youtube.com/watch?v=APOPm0IBVrk '
+		
+		YouTube-->Corey Shrafer-->*How to use venv in python
